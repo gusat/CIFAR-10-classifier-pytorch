@@ -73,7 +73,7 @@ python test.py
 
 ## Results
 
-The detailed results of the training and testing can be found in the Jupyter notebook [here](notebooks/CIFAR-10-Image-Classification.ipynb).
+The detailed results of the training and testing can be found in the Jupyter notebook  https://www.kaggle.com/mgusat/cifar-10-v0-9
 
 ## Acknowledgments
 

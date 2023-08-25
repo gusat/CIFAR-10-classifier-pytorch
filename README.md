@@ -1,5 +1,6 @@
 # CIFAR-10-classifier-pytorch
 learning intro to CNNs and Pytorch
+live code w/ GPU at https://www.kaggle.com/mgusat/cifar-10-v0-9
 
 ```markdown
 # CIFAR-10 Image Classification
